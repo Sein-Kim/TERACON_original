@@ -2,7 +2,6 @@ import torch
 import torch.nn as nn
 import data_loader as data_loader
 import generator_hat_other as generator_recsys
-# import generator_hat_conure as generator_recsys
 
 import math
 import numpy as np
